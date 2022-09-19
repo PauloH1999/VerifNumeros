@@ -1,0 +1,24 @@
+#box{
+    border: solid 4px black;
+    width: 250px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#num{
+    margin-bottom: 5px;
+}
+
+#adicionar{
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    height: 35px;
+    width: 100px;
+}
+
+#lista{
+    border: solid 2px black;
+    width: 210px;
+    border-radius: 10px;
+}
